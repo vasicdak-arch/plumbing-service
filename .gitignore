@@ -1,0 +1,67 @@
+# WordPress backups
+wp-content/ai1wm-backups/
+wp-content/backups-dup-lite/
+*.wpress
+*.zip
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
+wp-config.php
+
+# Dependency directories
+vendor/
+node_modules/
+
+# WordPress core (if managed separately, e.g. via Composer)
+wp-admin/
+wp-includes/
+
+# WordPress root files
+index.php
+license.txt
+readme.html
+wp-*.php
+xmlrpc.php
+
+# Uploads (user-generated content)
+wp-content/uploads/
+
+# Cache
+wp-content/cache/
+wp-content/advanced-cache.php
+
+# Backups
+wp-content/backups/
+wp-content/backup-db/
+*.sql
+
+# Upgrade/temp files
+wp-content/upgrade/
+wp-content/temp/
+
+# Debug logs
+wp-content/debug.log
+
+# Plugins
+# Keep your custom plugins, ignore others if needed
+wp-content/plugins/*
+!wp-content/plugins/your-custom-plugin/
+
+# Themes
+# Keep your custom theme, ignore others
+wp-content/themes/*
+!wp-content/themes/your-custom-theme/
+
+# Must-use plugins (optional)
+wp-content/mu-plugins/*
+!wp-content/mu-plugins/your-mu-plugin.php

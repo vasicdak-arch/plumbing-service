@@ -1,0 +1,909 @@
+0000.005 (0) Opened log file at time: Sat, 07 Mar 2026 06:31:20 +0000 on https://fontaneriaenmurcia.es
+0000.009 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.9 WP: 6.8.3 PHP: 8.2.29 (litespeed, Linux fr-int-web1301.main-hosting.eu 5.14.0-611.13.1.el9_7.x86_64 #1 SMP PREEMPT_DYNAMIC Thu Dec 11 04:57:59 EST 2025 x86_64) MySQL: 11.8.3-MariaDB-log (max packet size=1073741824) WPLANG: es_ES Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 19M | 22M) multisite: N openssl: OpenSSL 3.2.2 4 Jun 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.012 (0) Free space on disk containing Updraft's temporary directory: 2680302.1 MB
+0000.020 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: daily)
+0000.025 (0) Processed schedules. Combining jobs from co-inciding events. Tasks now: Backup files: 1 Backup DB: 1
+0000.038 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1771655866, seconds_ago=1209214)
+0000.041 (0) Set semaphore last lock (fd) time to 2026-03-07 06:31:20
+0000.043 (0) Semaphore lock (fd) complete
+0000.049 (0) Backup run: resumption=0, nonce=b33ce15e0d0b, file_nonce=b33ce15e0d0b begun at=1772865080 (0s ago), job type=backup
+0000.053 (0) Scheduling a resumption (1) after 300 seconds (1772865380) in case this run gets aborted
+0000.065 (0) Checking if we have a zip executable available
+0000.070 (0) Creation of backups of directories: beginning
+0000.078 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.459 (0) Total entities for the zip file: 1121 directories, 5506 files (0 skipped as non-modified), 87.4 MB
+0003.465 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0003.515 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 100 files added (on-disk size: 201.7 KB)
+0003.529 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 200 files added (on-disk size: 201.7 KB)
+0003.542 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 300 files added (on-disk size: 201.7 KB)
+0003.557 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 400 files added (on-disk size: 201.7 KB)
+0003.573 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 500 files added (on-disk size: 201.7 KB)
+0003.591 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 600 files added (on-disk size: 201.7 KB)
+0003.607 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 700 files added (on-disk size: 201.7 KB)
+0003.624 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 800 files added (on-disk size: 201.7 KB)
+0003.640 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 900 files added (on-disk size: 201.7 KB)
+0003.654 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1000 files added (on-disk size: 201.7 KB)
+0003.657 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.7 MB, 5506 files batched, 1001 (1002) added so far); re-opening (prior size: 201.7 KB)
+0005.373 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1100 files added (on-disk size: 6276.7 KB)
+0005.388 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1200 files added (on-disk size: 6276.7 KB)
+0005.403 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1300 files added (on-disk size: 6276.7 KB)
+0005.421 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1400 files added (on-disk size: 6276.7 KB)
+0005.438 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1500 files added (on-disk size: 6276.7 KB)
+0005.455 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1600 files added (on-disk size: 6276.7 KB)
+0005.471 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1700 files added (on-disk size: 6276.7 KB)
+0005.486 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1800 files added (on-disk size: 6276.7 KB)
+0005.505 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 1900 files added (on-disk size: 6276.7 KB)
+0005.524 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2000 files added (on-disk size: 6276.7 KB)
+0005.527 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.4 MB, 5506 files batched, 1001 (2003) added so far); re-opening (prior size: 6276.7 KB)
+0006.296 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2100 files added (on-disk size: 10410 KB)
+0006.313 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2200 files added (on-disk size: 10410 KB)
+0006.329 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2300 files added (on-disk size: 10410 KB)
+0006.345 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2400 files added (on-disk size: 10410 KB)
+0006.360 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2500 files added (on-disk size: 10410 KB)
+0006.374 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2600 files added (on-disk size: 10410 KB)
+0006.389 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2700 files added (on-disk size: 10410 KB)
+0006.406 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2800 files added (on-disk size: 10410 KB)
+0006.425 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 2900 files added (on-disk size: 10410 KB)
+0006.442 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3000 files added (on-disk size: 10410 KB)
+0006.445 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10 MB, 5506 files batched, 1001 (3004) added so far); re-opening (prior size: 10410 KB)
+0007.208 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3100 files added (on-disk size: 14876 KB)
+0007.223 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3200 files added (on-disk size: 14876 KB)
+0007.236 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3300 files added (on-disk size: 14876 KB)
+0007.253 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3400 files added (on-disk size: 14876 KB)
+0007.270 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3500 files added (on-disk size: 14876 KB)
+0007.283 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3600 files added (on-disk size: 14876 KB)
+0007.296 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3700 files added (on-disk size: 14876 KB)
+0007.309 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3800 files added (on-disk size: 14876 KB)
+0007.322 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 3900 files added (on-disk size: 14876 KB)
+0007.335 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4000 files added (on-disk size: 14876 KB)
+0007.338 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.3 MB, 5506 files batched, 1001 (4005) added so far); re-opening (prior size: 14876 KB)
+0007.894 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4100 files added (on-disk size: 17889 KB)
+0007.908 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4200 files added (on-disk size: 17889 KB)
+0007.920 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4300 files added (on-disk size: 17889 KB)
+0007.932 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4400 files added (on-disk size: 17889 KB)
+0007.944 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4500 files added (on-disk size: 17889 KB)
+0007.956 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4600 files added (on-disk size: 17889 KB)
+0007.967 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4700 files added (on-disk size: 17889 KB)
+0007.980 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4800 files added (on-disk size: 17889 KB)
+0007.994 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 4900 files added (on-disk size: 17889 KB)
+0008.008 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 5000 files added (on-disk size: 17889 KB)
+0008.011 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.1 MB, 5506 files batched, 1001 (5006) added so far); re-opening (prior size: 17889 KB)
+0009.062 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 5100 files added (on-disk size: 22739.5 KB)
+0009.363 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 5200 files added (on-disk size: 22739.5 KB)
+0009.375 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 5300 files added (on-disk size: 22739.5 KB)
+0009.387 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 5400 files added (on-disk size: 22739.5 KB)
+0009.400 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.tmp: 5500 files added (on-disk size: 22739.5 KB)
+0011.021 (0) Creating zip file manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.list-temp.tmp)
+0011.041 (0) Successfully created zip file manifest (size: 464403)
+0011.257 (0) Created plugins zip (0) - 28569 KB in 11.2 s (2556.8 KB/s) (sha1: 58fe7e7f10ee65de8b54de08872b8bbacacdb17a, sha256: e8138a7ede602e77f032255903a5f5aab734aa81c1c268d3063222a679625aaf)
+0011.265 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0011.267 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-64e7290ade01d6bd2a0e934aac6d22ac)
+0012.432 (0) Google Drive: quota usage: used=1122.7 MB, total=15360 MB, available=14237.3 MB
+0012.725 (0) Google Drive: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip: Attempting to upload to Google Drive (into folder id: 1hXt2fe6xErO7QVwg3RlezyQmCCYvRdeN)
+0013.431 (0) Googledrive chunked upload: 3.6 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 22.2 / 26)
+0013.550 (0) Googledrive chunked upload: 10.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 22.4 / 26)
+0013.681 (0) Googledrive chunked upload: 25.1 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 22.4 / 26)
+0013.875 (0) Googledrive chunked upload: 53.8 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 22.4 / 26)
+0015.407 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0015.413 (0) Google Drive: OK: Archive backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip uploaded in 2.69 seconds
+0015.415 (0) Recording as successfully uploaded: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip
+0015.423 (0) Deleting local file: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip: OK
+0015.430 (0) Beginning creation of dump of themes (split every: 400 MB)
+0015.598 (0) Total entities for the zip file: 234 directories, 807 files (0 skipped as non-modified), 17.3 MB
+0015.613 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0015.629 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0015.642 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0015.654 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0015.665 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0015.676 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0015.686 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0015.697 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0016.441 (0) Creating zip file manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.list-temp.tmp)
+0016.447 (0) Successfully created zip file manifest (size: 62768)
+0016.560 (0) Created themes zip (0) - 14876.3 KB in 1.1 s (13215.9 KB/s) (sha1: f41a8edfdd17b52fff26c97198ecc8c7ffea9679, sha256: d610643a30f496dd6b3e1240c9dbf4aeba0c3ab276b189267d6c3b0e5553b7ad)
+0016.568 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0016.570 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-64e7290ade01d6bd2a0e934aac6d22ac)
+0016.885 (0) Google Drive: quota usage: used=1122.7 MB, total=15360 MB, available=14237.3 MB
+0016.888 (0) Google Drive: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip: Attempting to upload to Google Drive (into folder id: 1hXt2fe6xErO7QVwg3RlezyQmCCYvRdeN)
+0017.481 (0) Googledrive chunked upload: 6.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.5 / 26)
+0017.626 (0) Googledrive chunked upload: 20.7 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.7 / 26)
+0017.805 (0) Googledrive chunked upload: 48.2 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.7 / 26)
+0019.258 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0019.264 (0) Google Drive: OK: Archive backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip uploaded in 2.37 seconds
+0019.266 (0) Recording as successfully uploaded: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip
+0019.273 (0) Deleting local file: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip: OK
+0019.280 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots,wp-staging
+0019.282 (0) Looking for candidates to backup in: /home/u172154815/domains/fontaneriaenmurcia.es/public_html/wp-content/uploads
+0019.285 (0) finding files: nina-agua-osmosis-casa-murcia.jpg: adding to list (1)
+0019.287 (0) finding files: fontaneros-en-la-manga.jpg: adding to list (2)
+0019.289 (0) finding files: Logo-Fontaneria-en-Murcia-300x109.png: adding to list (3)
+0019.290 (0) finding files: fontaneros-en-los-alcazares-768x481.jpg: adding to list (4)
+0019.292 (0) finding files: reparacion-cisterna-de-agua-fontanera-1200x655.jpg: adding to list (5)
+0019.293 (0) finding files: LOGO-2048x721.png: adding to list (6)
+0019.295 (0) finding files: malgastar-agua-y-dinero.jpg: adding to list (7)
+0019.296 (0) finding files: fontaneros-en-orihuela-768x422.jpg: adding to list (8)
+0019.298 (0) finding files: partes-de-un-termo-electrico-e1772105285953-300x300.jpg: adding to list (9)
+0019.300 (0) finding files: fugas-de-agua-en-Murcia-300x300.jpg: adding to list (10)
+0019.302 (0) finding files: fontaneros-en-la-manga-768x485.jpg: adding to list (11)
+0019.304 (0) finding files: fontaneros-en-totana.jpg: adding to list (12)
+0019.306 (0) finding files: fontaneros-urgentes-en-Murcia-1200x802.jpg: adding to list (13)
+0019.308 (0) finding files: fontaneros-urgentes-en-Murcia-768x513.jpg: adding to list (14)
+0019.310 (0) finding files: filtros-agua-osmosis-e1772019336923-300x300.jpg: adding to list (15)
+0019.312 (0) finding files: mecanismo-cisterna-inodoro-800x525.jpg: adding to list (16)
+0019.314 (0) finding files: instalacion-de-calentador-en-Murcia-350x100.jpg: adding to list (17)
+0019.316 (0) finding files: partes-de-un-termo-electrico.jpg: adding to list (18)
+0019.318 (0) finding files: calcaracion-resistencia-termo-electrico-800x530.jpg: adding to list (19)
+0019.320 (0) finding files: instalacion-equipo-osmosis-e1772019890188-300x300.jpg: adding to list (20)
+0019.322 (0) finding files: fontaneros-en-lorca.jpg: adding to list (21)
+0019.323 (0) finding files: reformas-de-cocinas-en-Murcia-300x300.jpg: adding to list (22)
+0019.325 (0) finding files: boletin-de-agua-en-Murcia-300x300.jpg: adding to list (23)
+0019.327 (0) finding files: cambio-de-banera-por-ducha-en-Murcia.jpg: adding to list (24)
+0019.330 (0) finding files: instalacion-equipo-osmosis-e1772019890188-1200x585.jpg: adding to list (25)
+0019.332 (0) finding files: fontaneros-en-san-javier-768x510.jpg: adding to list (26)
+0019.334 (0) finding files: LOGO.png: adding to list (27)
+0019.336 (0) finding files: anodo-magnesio-termo-electrico-e1772105617275.jpg: adding to list (28)
+0019.338 (0) finding files: fontaneros-en-orihuela-300x300.jpg: adding to list (29)
+0019.339 (0) finding files: fontaneros-en-las-torres-de-cotillas.jpg: adding to list (30)
+0019.341 (0) finding files: partes-de-un-termo-electrico-e1772105285953.jpg: adding to list (31)
+0019.343 (0) finding files: nina-agua-osmosis-casa-murcia-e1772019387888.jpg: adding to list (32)
+0019.345 (0) finding files: fugas-de-agua-en-Murcia-768x518.jpg: adding to list (33)
+0019.346 (0) finding files: reparacion-de-cisternas-en-Murcia-800x534.jpg: adding to list (34)
+0019.348 (0) finding files: instalacion-de-fontaneria-en-Murcia-768x389.jpg: adding to list (35)
+0019.349 (0) finding files: fontaneros-en-yecla-300x300.jpg: adding to list (36)
+0019.351 (0) finding files: desatascos-en-Murcia.jpg-768x517.jpg: adding to list (37)
+0019.353 (0) finding files: nina-agua-osmosis-casa-murcia-800x800.jpg: adding to list (38)
+0019.355 (0) finding files: cisterna-pierde-agua-murcia-1-800x534.jpg: adding to list (39)
+0019.356 (0) finding files: instalacion-de-fontaneria-en-Murcia-1200x609.jpg: adding to list (40)
+0019.358 (0) finding files: eliminacion-de-humedades-en-Murcia-350x100.jpg: adding to list (41)
+0019.360 (0) finding files: termo-electrico-horizontal-en-bano.jpg: adding to list (42)
+0019.361 (0) finding files: fontaneros-en-jumilla-768x512.jpg: adding to list (43)
+0019.363 (0) finding files: termo-electrico-horizontal-en-bano-e1772105973345-300x300.jpg: adding to list (44)
+0019.365 (0) finding files: anodo-magnesio-termo-electrico-e1772105617275-800x548.jpg: adding to list (45)
+0019.366 (0) finding files: Logo-MENU-1536x333.png: adding to list (46)
+0019.368 (0) finding files: wpcode: adding to list (47)
+0019.370 (0) finding files: reformas-de-banos-en-Murcia-350x100.jpg: adding to list (48)
+0019.371 (0) finding files: reparacion-cisterna-de-agua-fontanera-800x437.jpg: adding to list (49)
+0019.373 (0) finding files: mecanismo-cisterna-inodoro-768x504.jpg: adding to list (50)
+0019.375 (0) finding files: termo-electrico-instalacion-murcia.jpg: adding to list (51)
+0019.375 (0) finding files: fontaneros-en-murcia-300x300.jpg: adding to list (52)
+0019.375 (0) finding files: fugas-de-agua-en-Murcia.jpg: adding to list (53)
+0019.375 (0) finding files: fontanero-en-la-region-de-murcia-350x100.jpg: adding to list (54)
+0019.375 (0) finding files: instalacion-de-descalcificador-en-Murcia-300x300.jpg: adding to list (55)
+0019.375 (0) finding files: servicio-de-fontaneria-en-murcia-1200x801.jpg: adding to list (56)
+0019.375 (0) finding files: fontanero-en-la-region-de-murcia-768x512.jpg: adding to list (57)
+0019.375 (0) finding files: reformas-de-cocinas-en-Murcia.jpg: adding to list (58)
+0019.375 (0) finding files: fontaneros-en-san-pedro-del-pinatar-300x300.jpg: adding to list (59)
+0019.375 (0) finding files: LOGO-768x270.png: adding to list (60)
+0019.375 (0) finding files: fontanero-en-la-region-de-murcia.jpg: adding to list (61)
+0019.375 (0) finding files: consejos-de-fontaneria-350x100.jpg: adding to list (62)
+0019.375 (0) finding files: fontaneria-en-murcia-centro.jpg: adding to list (63)
+0019.375 (0) finding files: instalacion-de-calentador-en-Murcia-768x514.jpg: adding to list (64)
+0019.375 (0) finding files: anodo-magnesio-termo-electrico-300x300.jpg: adding to list (65)
+0019.375 (0) finding files: fontaneros-en-san-pedro-del-pinatar-768x506.jpg: adding to list (66)
+0019.375 (0) finding files: agua-filtrada-saludable-768x512.jpg: adding to list (67)
+0019.375 (0) finding files: fontanero-en-la-region-de-murcia-800x534.jpg: adding to list (68)
+0019.375 (0) finding files: fontaneros-en-cartagena-768x508.jpg: adding to list (69)
+0019.375 (0) finding files: cropped-LOGO-scaled-1-1200x400.png: adding to list (70)
+0019.375 (0) finding files: fontaneria-en-murcia-centro-1200x803.jpg: adding to list (71)
+0019.375 (0) finding files: instalacion-equipo-osmosis-800x533.jpg: adding to list (72)
+0019.375 (0) finding files: fontaneros-en-mazarron-300x300.jpg: adding to list (73)
+0019.375 (0) finding files: filtros-agua-osmosis-794x800.jpg: adding to list (74)
+0019.375 (0) finding files: desatascos-en-Murcia.jpg-800x539.jpg: adding to list (75)
+0019.375 (0) finding files: fontaneros-en-las-torres-de-cotillas-768x478.jpg: adding to list (76)
+0019.375 (0) finding files: fontaneros-en-mazarron-768x486.jpg: adding to list (77)
+0019.375 (0) finding files: boletin-de-agua-en-Murcia.jpg: adding to list (78)
+0019.375 (0) finding files: cropped-LOGO-scaled-1-2048x682.png: adding to list (79)
+0019.375 (0) finding files: complianz: adding to list (80)
+0019.375 (0) finding files: LOGO-800x282.png: adding to list (81)
+0019.375 (0) finding files: fontanero-cambio-termo-electrico-murcia-300x300.jpg: adding to list (82)
+0019.375 (0) finding files: fontaneros-en-alcantarilla-1-1200x820.jpg: adding to list (83)
+0019.375 (0) finding files: termo-electrico-horizontal-en-bano-e1772105973345-800x573.jpg: adding to list (84)
+0019.375 (0) finding files: malgastar-agua-y-dinero-768x515.jpg: adding to list (85)
+0019.375 (0) finding files: instalacion-de-termo-en-Murcia.jpg: adding to list (86)
+0019.375 (0) finding files: reformas-de-cocinas-en-Murcia-800x697.jpg: adding to list (87)
+0019.375 (0) finding files: fontaneros-en-caravaca-de-la-cruz.jpg: adding to list (88)
+0019.375 (0) finding files: desatascos-en-Murcia.jpg-1200x808.jpg: adding to list (89)
+0019.375 (0) finding files: anodo-magnesio-termo-electrico-800x797.jpg: adding to list (90)
+0019.375 (0) finding files: Logo-MENU-scaled.png: adding to list (91)
+0019.375 (0) finding files: fontaneros-en-jumilla-300x300.jpg: adding to list (92)
+0019.375 (0) finding files: reparacion-de-cisternas-en-Murcia.jpg: adding to list (93)
+0019.375 (0) finding files: fontaneros-en-alhama-de-murcia-300x300.jpg: adding to list (94)
+0019.375 (0) finding files: LOGO-scaled.png: adding to list (95)
+0019.375 (0) finding files: eliminacion-de-humedades-en-Murcia.jpg: adding to list (96)
+0019.375 (0) finding files: fontaneros-urgentes-en-Murcia.jpg: adding to list (97)
+0019.375 (0) finding files: fontaneros-en-las-torres-de-cotillas-300x300.jpg: adding to list (98)
+0019.375 (0) finding files: termo-electrico-instalacion-murcia-768x515.jpg: adding to list (99)
+0019.375 (0) finding files: fontaneros-en-los-narejos.jpg: adding to list (100)
+0019.377 (0) finding files: consejos-de-fontaneria-300x300.jpg: adding to list (101)
+0019.377 (0) finding files: desatascos-en-Murcia.jpg-300x300.jpg: adding to list (102)
+0019.377 (0) finding files: fontaneros-en-murcia-800x434.jpg: adding to list (103)
+0019.377 (0) finding files: nina-agua-osmosis-casa-murcia-300x300.jpg: adding to list (104)
+0019.377 (0) finding files: fontanero-en-la-region-de-murcia-300x300.jpg: adding to list (105)
+0019.377 (0) finding files: servicio-de-fontaneria-en-murcia-300x300.jpg: adding to list (106)
+0019.377 (0) finding files: fontaneros-en-santiago-de-la-ribera.jpg: adding to list (107)
+0019.377 (0) finding files: rank-math: adding to list (108)
+0019.377 (0) finding files: malgastar-agua-y-dinero-1200x805.jpg: adding to list (109)
+0019.377 (0) finding files: fontaneros-en-jumilla.jpg: adding to list (110)
+0019.377 (0) finding files: fontaneros-en-mula-300x300.jpg: adding to list (111)
+0019.377 (0) finding files: instalacion-de-fontaneria-en-Murcia-350x100.jpg: adding to list (112)
+0019.377 (0) finding files: termo-electrico-horizontal-en-bano-768x772.jpg: adding to list (113)
+0019.377 (0) finding files: termo-electrico-horizontal-en-bano-796x800.jpg: adding to list (114)
+0019.377 (0) finding files: fontaneria-en-murcia-centro-800x536.jpg: adding to list (115)
+0019.377 (0) finding files: consejos-de-fontaneria-1200x672.jpg: adding to list (116)
+0019.377 (0) finding files: fontaneros-en-san-pedro-del-pinatar.jpg: adding to list (117)
+0019.377 (0) finding files: fontaneros-en-los-alcazares.jpg: adding to list (118)
+0019.377 (0) finding files: fontaneros-en-murcia-1200x650.jpg: adding to list (119)
+0019.377 (0) finding files: fontaneros-en-los-narejos-768x469.jpg: adding to list (120)
+0019.377 (0) finding files: fontaneros-en-cieza-768x480.jpg: adding to list (121)
+0019.377 (0) finding files: fugas-de-agua-en-Murcia-350x100.jpg: adding to list (122)
+0019.377 (0) finding files: instalacion-de-fontaneria-en-Murcia-300x300.jpg: adding to list (123)
+0019.377 (0) finding files: reparacion-de-tuberias-en-Murcia-768x769.jpg: adding to list (124)
+0019.377 (0) finding files: fontaneros-en-la-manga-800x506.jpg: adding to list (125)
+0019.377 (0) finding files: cropped-LOGO-scaled-1-300x300.png: adding to list (126)
+0019.377 (0) finding files: boletin-de-agua-en-Murcia-1200x802.jpg: adding to list (127)
+0019.377 (0) finding files: cambio-de-banera-por-ducha-en-Murcia-800x534.jpg: adding to list (128)
+0019.377 (0) finding files: filtros-agua-osmosis.jpg: adding to list (129)
+0019.377 (0) finding files: cambio-de-banera-por-ducha-en-Murcia-350x100.jpg: adding to list (130)
+0019.377 (0) finding files: cisterna-pierde-agua-murcia-1-1200x800.jpg: adding to list (131)
+0019.377 (0) finding files: nina-agua-osmosis-casa-murcia-e1772019387888-800x683.jpg: adding to list (132)
+0019.377 (0) finding files: cisterna-pierde-agua-murcia-1-768x512.jpg: adding to list (133)
+0019.377 (0) finding files: fontaneros-en-molina-de-segura.jpg: adding to list (134)
+0019.377 (0) finding files: cocinar-con-agua-filtrada-768x512.jpg: adding to list (135)
+0019.377 (0) finding files: servicio-de-fontaneria-en-murcia-800x534.jpg: adding to list (136)
+0019.377 (0) finding files: anodo-magnesio-termo-electrico-e1772105617275-300x300.jpg: adding to list (137)
+0019.377 (0) finding files: reformas-de-banos-en-Murcia.jpg: adding to list (138)
+0019.377 (0) finding files: boletin-de-agua-en-Murcia-768x514.jpg: adding to list (139)
+0019.377 (0) finding files: desatascos-en-Murcia.jpg-350x100.jpg: adding to list (140)
+0019.377 (0) finding files: desatascos-en-Murcia.jpg.jpg: adding to list (141)
+0019.377 (0) finding files: fontaneros-en-molina-de-segura-300x300.jpg: adding to list (142)
+0019.377 (0) finding files: fontaneros-en-mazarron.jpg: adding to list (143)
+0019.377 (0) finding files: osmosis-inversa-instalacion-bajo-fregadero-murcia.jpg: adding to list (144)
+0019.377 (0) finding files: instalacion-de-osmosis-en-Murcia-300x300.jpg: adding to list (145)
+0019.377 (0) finding files: agua-filtrada-saludable.jpg: adding to list (146)
+0019.377 (0) finding files: fontaneros-en-torre-pacheco-768x434.jpg: adding to list (147)
+0019.377 (0) finding files: instalacion-de-calentador-en-Murcia-300x300.jpg: adding to list (148)
+0019.377 (0) finding files: instalacion-de-termo-en-Murcia-300x300.jpg: adding to list (149)
+0019.377 (0) finding files: cisterna-inodoro-en-bano.jpg: adding to list (150)
+0019.377 (0) finding files: reparacion-de-bajantes-en-Murcia-350x100.jpg: adding to list (151)
+0019.377 (0) finding files: eliminacion-de-humedades-en-Murcia-300x300.jpg: adding to list (152)
+0019.377 (0) finding files: fontaneria-en-murcia-centro-350x100.jpg: adding to list (153)
+0019.377 (0) finding files: LOGO-1200x422.png: adding to list (154)
+0019.377 (0) finding files: filtros-agua-osmosis-300x300.jpg: adding to list (155)
+0019.377 (0) finding files: fontaneria-en-murcia-centro-300x300.jpg: adding to list (156)
+0019.377 (0) finding files: anodo-magnesio-termo-electrico-e1772105617275-768x527.jpg: adding to list (157)
+0019.377 (0) finding files: fontaneros-urgentes-en-Murcia-300x300.jpg: adding to list (158)
+0019.377 (0) finding files: reformas-de-cocinas-en-Murcia-768x669.jpg: adding to list (159)
+0019.377 (0) finding files: osmosis-inversa-instalacion-bajo-fregadero-murcia-800x488.jpg: adding to list (160)
+0019.377 (0) finding files: fontanero-cambio-termo-electrico-murcia.jpg: adding to list (161)
+0019.377 (0) finding files: fontaneros-en-cieza.jpg: adding to list (162)
+0019.377 (0) finding files: reparacion-de-tuberias-en-Murcia-350x100.jpg: adding to list (163)
+0019.377 (0) finding files: fontaneros-en-alcantarilla-1-300x300.jpg: adding to list (164)
+0019.377 (0) finding files: fontaneros-en-santiago-de-la-ribera-300x300.jpg: adding to list (165)
+0019.377 (0) finding files: mecanismo-cisterna-inodoro-300x300.jpg: adding to list (166)
+0019.377 (0) finding files: reparacion-cisterna-de-agua-fontanera.jpg: adding to list (167)
+0019.377 (0) finding files: fontaneros-en-alhama-de-murcia-768x512.jpg: adding to list (168)
+0019.377 (0) finding files: calcaracion-resistencia-termo-electrico-1200x795.jpg: adding to list (169)
+0019.377 (0) finding files: anodo-magnesio-termo-electrico-768x765.jpg: adding to list (170)
+0019.377 (0) finding files: cambio-de-banera-por-ducha-en-Murcia-768x513.jpg: adding to list (171)
+0019.377 (0) finding files: 2025: adding to list (172)
+0019.377 (0) finding files: instalacion-de-osmosis-en-Murcia-350x100.jpg: adding to list (173)
+0019.377 (0) finding files: agua-filtrada-saludable-1200x800.jpg: adding to list (174)
+0019.377 (0) finding files: agua-filtrada-saludable-800x533.jpg: adding to list (175)
+0019.377 (0) finding files: consejos-de-fontaneria-800x448.jpg: adding to list (176)
+0019.377 (0) finding files: instalacion-de-descalcificador-en-Murcia-768x485.jpg: adding to list (177)
+0019.377 (0) finding files: anodo-magnesio-termo-electrico.jpg: adding to list (178)
+0019.377 (0) finding files: consejos-de-fontaneria.jpg: adding to list (179)
+0019.377 (0) finding files: instalacion-de-descalcificador-en-Murcia-350x100.jpg: adding to list (180)
+0019.377 (0) finding files: instalacion-equipo-osmosis-e1772019890188-768x374.jpg: adding to list (181)
+0019.377 (0) finding files: termo-electrico-horizontal-en-bano-e1772105973345.jpg: adding to list (182)
+0019.377 (0) finding files: fontaneros-en-alcantarilla-1-800x547.jpg: adding to list (183)
+0019.377 (0) finding files: reformas-de-banos-en-Murcia-300x300.jpg: adding to list (184)
+0019.377 (0) finding files: fontaneros-en-lorca-768x566.jpg: adding to list (185)
+0019.377 (0) finding files: generateblocks: adding to list (186)
+0019.377 (0) finding files: fontaneros-en-cieza-300x300.jpg: adding to list (187)
+0019.377 (0) finding files: Logo-MENU-1200x260.png: adding to list (188)
+0019.377 (0) finding files: Logo-MENU.png: adding to list (189)
+0019.377 (0) finding files: cropped-LOGO-scaled-1-768x256.png: adding to list (190)
+0019.377 (0) finding files: instalacion-de-calentador-en-Murcia-1200x804.jpg: adding to list (191)
+0019.377 (0) finding files: reparacion-de-bajantes-en-Murcia.jpg: adding to list (192)
+0019.377 (0) finding files: instalacion-equipo-osmosis-768x512.jpg: adding to list (193)
+0019.377 (0) finding files: instalacion-de-termo-en-Murcia-800x471.jpg: adding to list (194)
+0019.377 (0) finding files: instalacion-de-termo-en-Murcia-350x100.jpg: adding to list (195)
+0019.377 (0) finding files: instalacion-de-fontaneria-en-Murcia.jpg: adding to list (196)
+0019.377 (0) finding files: eliminacion-de-humedades-en-Murcia-793x800.jpg: adding to list (197)
+0019.377 (0) finding files: instalacion-de-fontaneria-en-Murcia-800x406.jpg: adding to list (198)
+0019.377 (0) finding files: calcaracion-resistencia-termo-electrico.jpg: adding to list (199)
+0019.377 (0) finding files: fontaneros-en-alhama-de-murcia.jpg: adding to list (200)
+0019.379 (0) finding files: Logo-MENU-350x100.png: adding to list (201)
+0019.379 (0) finding files: fontaneros-en-mula-768x565.jpg: adding to list (202)
+0019.379 (0) finding files: fontanero-cambio-termo-electrico-murcia-1200x800.jpg: adding to list (203)
+0019.379 (0) finding files: fontaneros-en-los-narejos-300x300.jpg: adding to list (204)
+0019.379 (0) finding files: osmosis-inversa-instalacion-bajo-fregadero-murcia-768x468.jpg: adding to list (205)
+0019.379 (0) finding files: eliminacion-de-humedades-en-Murcia-768x775.jpg: adding to list (206)
+0019.379 (0) finding files: termo-electrico-instalacion-murcia-800x536.jpg: adding to list (207)
+0019.379 (0) finding files: fontaneros-en-san-javier.jpg: adding to list (208)
+0019.379 (0) finding files: fontaneros-en-los-alcazares-300x300.jpg: adding to list (209)
+0019.379 (0) finding files: fugas-de-agua-en-Murcia-1200x809.jpg: adding to list (210)
+0019.379 (0) finding files: malgastar-agua-y-dinero-800x537.jpg: adding to list (211)
+0019.379 (0) finding files: fontaneros-en-caravaca-de-la-cruz-768x562.jpg: adding to list (212)
+0019.379 (0) finding files: cisterna-inodoro-en-bano-300x300.jpg: adding to list (213)
+0019.379 (0) finding files: cocinar-con-agua-filtrada-1200x800.jpg: adding to list (214)
+0019.379 (0) finding files: servicio-de-fontaneria-en-murcia-350x100.jpg: adding to list (215)
+0019.379 (0) finding files: nina-agua-osmosis-casa-murcia-e1772019387888-300x300.jpg: adding to list (216)
+0019.379 (0) finding files: instalacion-de-termo-en-Murcia-768x452.jpg: adding to list (217)
+0019.379 (0) finding files: reparacion-de-bajantes-en-Murcia-768x638.jpg: adding to list (218)
+0019.379 (0) finding files: instalacion-de-calentador-en-Murcia.jpg: adding to list (219)
+0019.379 (0) finding files: instalacion-de-descalcificador-en-Murcia.jpg: adding to list (220)
+0019.379 (0) finding files: fontaneros-en-torre-pacheco-300x300.jpg: adding to list (221)
+0019.379 (0) finding files: Logo-MENU-2048x444.png: adding to list (222)
+0019.379 (0) finding files: instalacion-de-osmosis-en-Murcia.jpg: adding to list (223)
+0019.379 (0) finding files: instalacion-de-osmosis-en-Murcia-796x800.jpg: adding to list (224)
+0019.379 (0) finding files: mecanismo-cisterna-inodoro.jpg: adding to list (225)
+0019.379 (0) finding files: cocinar-con-agua-filtrada-300x300.jpg: adding to list (226)
+0019.379 (0) finding files: servicio-de-fontaneria-en-murcia-768x513.jpg: adding to list (227)
+0019.379 (0) finding files: cambio-de-banera-por-ducha-en-Murcia-300x300.jpg: adding to list (228)
+0019.379 (0) finding files: instalacion-de-descalcificador-en-Murcia-800x505.jpg: adding to list (229)
+0019.379 (0) finding files: fontaneros-en-yecla-768x511.jpg: adding to list (230)
+0019.379 (0) finding files: fontaneros-en-san-javier-300x300.jpg: adding to list (231)
+0019.379 (0) finding files: calcaracion-resistencia-termo-electrico-300x300.jpg: adding to list (232)
+0019.379 (0) finding files: reparacion-cisterna-de-agua-fontanera-300x300.jpg: adding to list (233)
+0019.379 (0) finding files: fontaneros-en-cartagena-300x300.jpg: adding to list (234)
+0019.379 (0) finding files: fontaneros-en-la-manga-300x300.jpg: adding to list (235)
+0019.379 (0) finding files: fontaneros-en-torre-pacheco.jpg: adding to list (236)
+0019.379 (0) finding files: calcaracion-resistencia-termo-electrico-768x509.jpg: adding to list (237)
+0019.379 (0) finding files: termo-electrico-horizontal-en-bano-300x300.jpg: adding to list (238)
+0019.379 (0) finding files: nina-agua-osmosis-casa-murcia-e1772019387888-768x656.jpg: adding to list (239)
+0019.379 (0) finding files: instalacion-equipo-osmosis-e1772019890188-800x390.jpg: adding to list (240)
+0019.379 (0) finding files: fontanero-cambio-termo-electrico-murcia-800x534.jpg: adding to list (241)
+0019.379 (0) finding files: filtros-agua-osmosis-768x774.jpg: adding to list (242)
+0019.379 (0) finding files: cropped-LOGO-scaled-1-800x267.png: adding to list (243)
+0019.379 (0) finding files: LOGO-300x300.png: adding to list (244)
+0019.379 (0) finding files: cocinar-con-agua-filtrada.jpg: adding to list (245)
+0019.379 (0) finding files: instalacion-equipo-osmosis-300x300.jpg: adding to list (246)
+0019.379 (0) finding files: reformas-de-cocinas-en-Murcia-350x100.jpg: adding to list (247)
+0019.379 (0) finding files: instalacion-equipo-osmosis-e1772019890188.jpg: adding to list (248)
+0019.379 (0) finding files: partes-de-un-termo-electrico-583x800.jpg: adding to list (249)
+0019.379 (0) finding files: fontaneros-urgentes-en-Murcia-350x100.jpg: adding to list (250)
+0019.379 (0) finding files: filtros-agua-osmosis-e1772019336923.jpg: adding to list (251)
+0019.379 (0) finding files: cropped-LOGO-scaled-1-1536x512.png: adding to list (252)
+0019.379 (0) finding files: filtros-agua-osmosis-e1772019336923-768x636.jpg: adding to list (253)
+0019.379 (0) finding files: reparacion-de-bajantes-en-Murcia-800x664.jpg: adding to list (254)
+0019.379 (0) finding files: partes-de-un-termo-electrico-300x300.jpg: adding to list (255)
+0019.379 (0) finding files: reparacion-cisterna-de-agua-fontanera-768x419.jpg: adding to list (256)
+0019.379 (0) finding files: fontaneros-en-santiago-de-la-ribera-768x507.jpg: adding to list (257)
+0019.379 (0) finding files: reparacion-de-cisternas-en-Murcia-350x100.jpg: adding to list (258)
+0019.379 (0) finding files: LOGO-350x100.png: adding to list (259)
+0019.379 (0) finding files: instalacion-de-termo-en-Murcia-1200x706.jpg: adding to list (260)
+0019.379 (0) finding files: nina-agua-osmosis-casa-murcia-768x768.jpg: adding to list (261)
+0019.379 (0) finding files: cisterna-pierde-agua-murcia-1.jpg: adding to list (262)
+0019.379 (0) finding files: cocinar-con-agua-filtrada-800x533.jpg: adding to list (263)
+0019.379 (0) finding files: fontaneros-en-yecla.jpg: adding to list (264)
+0019.379 (0) finding files: fontaneros-en-cartagena.jpg: adding to list (265)
+0019.379 (0) finding files: termo-electrico-horizontal-en-bano-e1772105973345-768x551.jpg: adding to list (266)
+0019.379 (0) finding files: fontaneros-en-alcantarilla-1-768x525.jpg: adding to list (267)
+0019.379 (0) finding files: termo-electrico-instalacion-murcia-300x300.jpg: adding to list (268)
+0019.379 (0) finding files: fontaneros-en-murcia.jpg: adding to list (269)
+0019.379 (0) finding files: Logo-MENU-300x300.png: adding to list (270)
+0019.379 (0) finding files: fontaneros-en-alcantarilla-1.jpg: adding to list (271)
+0019.379 (0) finding files: reparacion-de-cisternas-en-Murcia-768x512.jpg: adding to list (272)
+0019.379 (0) finding files: fugas-de-agua-en-Murcia-800x540.jpg: adding to list (273)
+0019.379 (0) finding files: fontaneros-urgentes-en-Murcia-800x535.jpg: adding to list (274)
+0019.379 (0) finding files: reparacion-de-bajantes-en-Murcia-300x300.jpg: adding to list (275)
+0019.379 (0) finding files: fontaneria-en-murcia-centro-768x514.jpg: adding to list (276)
+0019.379 (0) finding files: agua-filtrada-saludable-300x300.jpg: adding to list (277)
+0019.379 (0) finding files: cambio-de-banera-por-ducha-en-Murcia-1200x801.jpg: adding to list (278)
+0019.379 (0) finding files: LOGO-1536x541.png: adding to list (279)
+0019.379 (0) finding files: filtros-agua-osmosis-e1772019336923-800x662.jpg: adding to list (280)
+0019.379 (0) finding files: fontaneros-en-lorca-300x300.jpg: adding to list (281)
+0019.379 (0) finding files: fontaneros-en-murcia-350x100.jpg: adding to list (282)
+0019.379 (0) finding files: fontanero-en-la-region-de-murcia-1200x801.jpg: adding to list (283)
+0019.379 (0) finding files: cropped-LOGO-scaled-1.png: adding to list (284)
+0019.379 (0) finding files: reparacion-de-tuberias-en-Murcia-300x300.jpg: adding to list (285)
+0019.379 (0) finding files: instalacion-de-osmosis-en-Murcia-768x771.jpg: adding to list (286)
+0019.379 (0) finding files: boletin-de-agua-en-Murcia-800x535.jpg: adding to list (287)
+0019.379 (0) finding files: fontaneros-en-caravaca-de-la-cruz-300x300.jpg: adding to list (288)
+0019.379 (0) finding files: malgastar-agua-y-dinero-300x300.jpg: adding to list (289)
+0019.379 (0) finding files: fontaneros-en-mula.jpg: adding to list (290)
+0019.379 (0) finding files: fontanero-cambio-termo-electrico-murcia-768x512.jpg: adding to list (291)
+0019.379 (0) finding files: fontaneros-en-totana-300x300.jpg: adding to list (292)
+0019.379 (0) finding files: reparacion-de-tuberias-en-Murcia-800x800.jpg: adding to list (293)
+0019.379 (0) finding files: reparacion-de-cisternas-en-Murcia-300x300.jpg: adding to list (294)
+0019.379 (0) finding files: boletin-de-agua-en-Murcia-350x100.jpg: adding to list (295)
+0019.379 (0) finding files: osmosis-inversa-instalacion-bajo-fregadero-murcia-300x300.jpg: adding to list (296)
+0019.379 (0) finding files: servicio-de-fontaneria-en-murcia.jpg: adding to list (297)
+0019.379 (0) finding files: instalacion-de-descalcificador-en-Murcia-1200x757.jpg: adding to list (298)
+0019.379 (0) finding files: fontaneros-en-orihuela.jpg: adding to list (299)
+0019.379 (0) finding files: consejos-de-fontaneria-768x430.jpg: adding to list (300)
+0019.381 (0) finding files: Logo-MENU-800x174.png: adding to list (301)
+0019.381 (0) finding files: instalacion-equipo-osmosis.jpg: adding to list (302)
+0019.381 (0) finding files: cisterna-pierde-agua-murcia-1-300x300.jpg: adding to list (303)
+0019.381 (0) finding files: fontaneros-en-totana-768x563.jpg: adding to list (304)
+0019.381 (0) finding files: reparacion-de-tuberias-en-Murcia.jpg: adding to list (305)
+0019.381 (0) finding files: instalacion-de-calentador-en-Murcia-800x536.jpg: adding to list (306)
+0019.381 (0) finding files: cambio-de-banera-por-ducha-en-Murcia-rotated.jpg: adding to list (307)
+0019.381 (0) finding files: fontaneros-en-murcia-768x416.jpg: adding to list (308)
+0019.381 (0) finding files: Logo-Fontaneria-en-Murcia.png: adding to list (309)
+0019.381 (0) finding files: instalacion-equipo-osmosis-1200x800.jpg: adding to list (310)
+0019.381 (0) finding files: Logo-MENU-768x167.png: adding to list (311)
+0019.381 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0019.445 (0) Total entities for the zip file: 10 directories, 348 files (0 skipped as non-modified), 15.7 MB
+0019.463 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0019.480 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0019.491 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0019.643 (0) Creating zip file manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip.list-temp.tmp)
+0019.646 (0) Successfully created zip file manifest (size: 20851)
+0019.765 (0) Created uploads zip (0) - 15999.4 KB in 0.4 s (42220.6 KB/s) (sha1: fbcec8ac52582353bda4b64e6ab140608e8822dd, sha256: 708c96cd18237900b1f525b2f4fbcd2ffe013d217f52730cde994af3efa39eae)
+0019.771 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0019.772 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-64e7290ade01d6bd2a0e934aac6d22ac)
+0020.043 (0) Google Drive: quota usage: used=1150.6 MB, total=15360 MB, available=14209.4 MB
+0020.046 (0) Google Drive: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip: Attempting to upload to Google Drive (into folder id: 1hXt2fe6xErO7QVwg3RlezyQmCCYvRdeN)
+0020.745 (0) Googledrive chunked upload: 6.4 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.5 / 26)
+0020.917 (0) Googledrive chunked upload: 19.2 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.7 / 26)
+0021.045 (0) Googledrive chunked upload: 44.8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.7 / 26)
+0021.252 (0) Googledrive chunked upload: 96 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 21.7 / 26)
+0022.580 (0) Googledrive chunked upload: 100 % uploaded (15728640)
+0022.587 (0) Google Drive: OK: Archive backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip uploaded in 2.54 seconds
+0022.589 (0) Recording as successfully uploaded: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip
+0022.597 (0) Deleting local file: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip: OK
+0022.604 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0022.609 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0 MB
+0022.632 (0) Creating zip file manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-mu-plugins.zip.list-temp.tmp)
+0022.634 (0) Successfully created zip file manifest (size: 125)
+0022.643 (0) Created mu-plugins zip (0) - 4.9 KB in 0 s (145.2 KB/s) (sha1: 0b6f01481ab3743108903d18713d2c7b03b82494, sha256: 687d1a9ec354f1a1f997beb74980ff819a280b6bd9351eeb9181b91510f0a7e2)
+0022.649 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0022.651 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-64e7290ade01d6bd2a0e934aac6d22ac)
+0022.984 (0) Google Drive: quota usage: used=1165.2 MB, total=15360 MB, available=14194.8 MB
+0022.987 (0) Google Drive: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-mu-plugins.zip: Attempting to upload to Google Drive (into folder id: 1hXt2fe6xErO7QVwg3RlezyQmCCYvRdeN)
+0024.518 (0) Googledrive chunked upload: 100 % uploaded
+0024.524 (0) Google Drive: OK: Archive backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-mu-plugins.zip uploaded in 1.53 seconds
+0024.526 (0) Recording as successfully uploaded: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-mu-plugins.zip
+0024.529 (0) Deleting local file: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-mu-plugins.zip: OK
+0024.535 (0) Beginning backup of other directories found in the content directory (index: 0)
+0024.536 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0024.538 (0) Looking for candidates to backup in: /home/u172154815/domains/fontaneriaenmurcia.es/public_html/wp-content
+0024.540 (0) finding files: wflogs: adding to list (1)
+0024.542 (0) finding files: upgrade-temp-backup: adding to list (2)
+0024.543 (0) finding files: litespeed: adding to list (3)
+0024.545 (0) finding files: themes: skipping: this is the themes directory
+0024.546 (0) finding files: updraft: skipping: this is the updraft directory
+0024.548 (0) finding files: index.php: adding to list (4)
+0024.549 (0) finding files: mu-plugins: skipping: this is the mu-plugins directory
+0024.550 (0) finding files: uploads: skipping: this is the uploads directory
+0024.552 (0) finding files: plugins: skipping: this is the plugins directory
+0024.553 (0) finding files: upgrade: skipping: excluded by options
+0024.554 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0024.555 (0) finding files: languages: adding to list (5)
+0024.557 (0) finding files: .litespeed_conf.dat: adding to list (6)
+0024.558 (0) finding files: backups-dup-lite: skipping: excluded by options (glob)
+0024.559 (0) finding files: object-cache.php: adding to list (7)
+0024.594 (0) Total entities for the zip file: 11 directories, 232 files (0 skipped as non-modified), 23.8 MB
+0024.605 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0024.615 (0) Zip: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0030.742 (0) Creating zip file manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-others.zip.list-temp.tmp)
+0030.745 (0) Successfully created zip file manifest (size: 15077)
+0030.812 (0) Created others zip (0) - 8787.9 KB in 6.2 s (1406.2 KB/s) (sha1: b5fc97a4f0fd4474b3961c97159c0d3f1416249d, sha256: 2c84e0ecdc01b525d078ea0c24bb63b821e5f2b28dac2ce422c0a41cfd74312e)
+0030.818 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0030.820 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-64e7290ade01d6bd2a0e934aac6d22ac)
+0031.125 (0) Google Drive: quota usage: used=1180.8 MB, total=15360 MB, available=14179.2 MB
+0031.128 (0) Google Drive: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-others.zip: Attempting to upload to Google Drive (into folder id: 1hXt2fe6xErO7QVwg3RlezyQmCCYvRdeN)
+0031.858 (0) Googledrive chunked upload: 11.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.4 / 26)
+0032.011 (0) Googledrive chunked upload: 35 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.6 / 26)
+0032.159 (0) Googledrive chunked upload: 81.6 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.6 / 26)
+0033.576 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0033.584 (0) Google Drive: OK: Archive backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-others.zip uploaded in 2.45 seconds
+0033.585 (0) Recording as successfully uploaded: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-others.zip
+0033.591 (0) Deleting local file: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-others.zip: OK
+0033.601 (0) Saving backup status to database (elements: 10)
+0033.606 (0) Beginning creation of database dump (WordPress DB)
+0033.608 (0) SQL compatibility mode is: NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0033.621 (0) Table wp_options: Total expected rows (via COUNT): 740
+0033.728 (0) Table wp_options: Rows added in this batch (next record: 48012): 736 (uncompressed bytes in this segment=3792374) in 0.11 seconds
+0033.736 (0) Table wp_options: finishing file(s) (2, 608.6 KB)
+0033.742 (0) Table wp_users: Total expected rows (via COUNT): 2
+0033.743 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0033.747 (0) Table wp_users: Rows added in this batch (next record: 4): 2 (uncompressed bytes in this segment=1391) in 0.01 seconds
+0033.755 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0033.762 (0) Table wp_usermeta: Total expected rows (via COUNT): 97
+0033.763 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0033.767 (0) Table wp_usermeta: Rows added in this batch (next record: 231): 97 (uncompressed bytes in this segment=9068) in 0.01 seconds
+0033.776 (0) Table wp_usermeta: finishing file(s) (2, 2.7 KB)
+0033.785 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 40
+0033.786 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0033.792 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 248): 40 (uncompressed bytes in this segment=21149) in 0.01 seconds
+0033.800 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 2.4 KB)
+0033.806 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0033.809 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=627) in 0.00 seconds
+0033.816 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0033.821 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 3
+0033.823 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0033.827 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=702) in 0.01 seconds
+0033.832 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0033.837 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 119
+0033.838 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0033.844 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 716): 119 (uncompressed bytes in this segment=11901) in 0.01 seconds
+0033.851 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.9 KB)
+0033.858 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0033.862 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=634) in 0.01 seconds
+0033.868 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0033.874 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0033.877 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1466) in 0.00 seconds
+0033.883 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0033.887 (0) Table wp_links: Total expected rows (via COUNT): 0
+0033.889 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.00 seconds
+0033.894 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0033.901 (0) Table wp_postmeta: Total expected rows (approximate): 1528
+0033.911 (0) Table wp_postmeta: Rows added in this batch (next record: 4353): 1528 (uncompressed bytes in this segment=167597) in 0.01 seconds
+0033.919 (0) Table wp_postmeta: finishing file(s) (2, 23.2 KB)
+0034.611 (0) Table wp_posts: Total expected rows (approximate): 1557
+0035.746 (0) Table wp_posts: Rows added in this batch (next record: 3332): 1759 (uncompressed bytes in this segment=58511061) in 1.82 seconds
+0035.757 (0) Table wp_posts: finishing file(s) (2, 7709 KB)
+0036.021 (0) Table wp_term_relationships: Total expected rows (approximate): 62
+0036.025 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 62 (uncompressed bytes in this segment=1648) in 0.01 seconds
+0036.031 (0) Table wp_term_relationships: finishing file(s) (2, 0.6 KB)
+0036.038 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 24
+0036.040 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.045 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 36): 24 (uncompressed bytes in this segment=1697) in 0.01 seconds
+0036.053 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0036.061 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0036.064 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=607) in 0.01 seconds
+0036.072 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0036.078 (0) Table wp_terms: Total expected rows (via COUNT): 24
+0036.079 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.084 (0) Table wp_terms: Rows added in this batch (next record: 36): 24 (uncompressed bytes in this segment=1512) in 0.01 seconds
+0036.093 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0036.100 (0) Table wp_cmplz_cookiebanners: Total expected rows (via COUNT): 1
+0036.102 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.104 (0) Table wp_cmplz_cookiebanners: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=6519) in 0.01 seconds
+0036.111 (0) Table wp_cmplz_cookiebanners: finishing file(s) (2, 2.1 KB)
+0036.117 (0) Table wp_cmplz_cookies: Total expected rows (via COUNT): 58
+0036.119 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.124 (0) Table wp_cmplz_cookies: Rows added in this batch (next record: 69): 58 (uncompressed bytes in this segment=8531) in 0.01 seconds
+0036.130 (0) Table wp_cmplz_cookies: finishing file(s) (2, 1.4 KB)
+0036.136 (0) Table wp_cmplz_dnsmpd: Total expected rows (via COUNT): 0
+0036.139 (0) Table wp_cmplz_dnsmpd: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=814) in 0.00 seconds
+0036.146 (0) Table wp_cmplz_dnsmpd: finishing file(s) (2, 0.4 KB)
+0036.152 (0) Table wp_cmplz_services: Total expected rows (via COUNT): 0
+0036.154 (0) Table wp_cmplz_services: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=851) in 0.00 seconds
+0036.161 (0) Table wp_cmplz_services: finishing file(s) (2, 0.4 KB)
+0036.171 (0) Table wp_duplicator_packages: Total expected rows (via COUNT): 1
+0036.173 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.178 (0) Table wp_duplicator_packages: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=24083) in 0.01 seconds
+0036.188 (0) Table wp_duplicator_packages: finishing file(s) (2, 5.9 KB)
+0036.195 (0) Table wp_litespeed_avatar: Total expected rows (via COUNT): 0
+0036.204 (0) Table wp_litespeed_avatar: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=635) in 0.01 seconds
+0036.212 (0) Table wp_litespeed_avatar: finishing file(s) (2, 0.4 KB)
+0036.218 (0) Table wp_litespeed_crawler: Total expected rows (via COUNT): 0
+0036.220 (0) Table wp_litespeed_crawler: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=793) in 0.00 seconds
+0036.227 (0) Table wp_litespeed_crawler: finishing file(s) (2, 0.5 KB)
+0036.233 (0) Table wp_litespeed_crawler_blacklist: Total expected rows (via COUNT): 0
+0036.236 (0) Table wp_litespeed_crawler_blacklist: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=849) in 0.00 seconds
+0036.242 (0) Table wp_litespeed_crawler_blacklist: finishing file(s) (2, 0.5 KB)
+0036.248 (0) Table wp_litespeed_url: Total expected rows (via COUNT): 60
+0036.250 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.254 (0) Table wp_litespeed_url: Rows added in this batch (next record: 301): 60 (uncompressed bytes in this segment=5283) in 0.01 seconds
+0036.261 (0) Table wp_litespeed_url: finishing file(s) (2, 1.3 KB)
+0036.267 (0) Table wp_litespeed_url_file: Total expected rows (via COUNT): 154
+0036.268 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.273 (0) Table wp_litespeed_url_file: Rows added in this batch (next record: 642): 154 (uncompressed bytes in this segment=12024) in 0.01 seconds
+0036.280 (0) Table wp_litespeed_url_file: finishing file(s) (2, 1.7 KB)
+0036.286 (0) Table wp_rank_math_404_logs: Total expected rows (via COUNT): 89
+0036.288 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.291 (0) Table wp_rank_math_404_logs: Rows added in this batch (next record: 89): 89 (uncompressed bytes in this segment=7435) in 0.01 seconds
+0036.297 (0) Table wp_rank_math_404_logs: finishing file(s) (2, 2.6 KB)
+0036.302 (0) Table wp_rank_math_analytics_gsc: Total expected rows (via COUNT): 1
+0036.303 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.307 (0) Table wp_rank_math_analytics_gsc: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=999) in 0.01 seconds
+0036.313 (0) Table wp_rank_math_analytics_gsc: finishing file(s) (2, 0.5 KB)
+0036.320 (0) Table wp_rank_math_analytics_inspections: Total expected rows (via COUNT): 2
+0036.321 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.323 (0) Table wp_rank_math_analytics_inspections: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=2066) in 0.01 seconds
+0036.329 (0) Table wp_rank_math_analytics_inspections: finishing file(s) (2, 0.8 KB)
+0036.334 (0) Table wp_rank_math_analytics_objects: Total expected rows (via COUNT): 2
+0036.336 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.337 (0) Table wp_rank_math_analytics_objects: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1541) in 0.00 seconds
+0036.343 (0) Table wp_rank_math_analytics_objects: finishing file(s) (2, 0.6 KB)
+0036.348 (0) Table wp_rank_math_internal_links: Total expected rows (approximate): 3443
+0036.367 (0) Table wp_rank_math_internal_links: Rows added in this batch (next record: 230281): 3384 (uncompressed bytes in this segment=308036) in 0.02 seconds
+0036.373 (0) Table wp_rank_math_internal_links: finishing file(s) (2, 21.6 KB)
+0036.379 (0) Table wp_rank_math_internal_meta: Total expected rows (via COUNT): 141
+0036.380 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.384 (0) Table wp_rank_math_internal_meta: Rows added in this batch (next record: 3204): 141 (uncompressed bytes in this segment=3194) in 0.01 seconds
+0036.390 (0) Table wp_rank_math_internal_meta: finishing file(s) (2, 0.8 KB)
+0036.398 (0) Table wp_rank_math_redirections: Total expected rows (via COUNT): 0
+0036.401 (0) Table wp_rank_math_redirections: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=947) in 0.01 seconds
+0036.410 (0) Table wp_rank_math_redirections: finishing file(s) (2, 0.5 KB)
+0036.414 (0) Table wp_rank_math_redirections_cache: Total expected rows (via COUNT): 0
+0036.416 (0) Table wp_rank_math_redirections_cache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=840) in 0.00 seconds
+0036.421 (0) Table wp_rank_math_redirections_cache: finishing file(s) (2, 0.4 KB)
+0036.426 (0) Table wp_wfauditevents: Total expected rows (via COUNT): 0
+0036.427 (0) Table wp_wfauditevents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=742) in 0.00 seconds
+0036.434 (0) Table wp_wfauditevents: finishing file(s) (2, 0.4 KB)
+0036.439 (0) Table wp_wfblockediplog: Total expected rows (approximate): 4
+0036.441 (0) Table wp_wfblockediplog: Rows added in this batch (next record: 1000): 5 (uncompressed bytes in this segment=1018) in 0.00 seconds
+0036.447 (0) Table wp_wfblockediplog: finishing file(s) (2, 0.5 KB)
+0036.453 (0) Table wp_wfblocks7: Total expected rows (via COUNT): 0
+0036.454 (0) Table wp_wfblocks7: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=867) in 0.00 seconds
+0036.460 (0) Table wp_wfblocks7: finishing file(s) (2, 0.4 KB)
+0036.465 (0) Table wp_wfconfig: Total expected rows (approximate): 278
+0036.531 (0) Table wp_wfconfig: Rows added in this batch (next record: 1000): 281 (uncompressed bytes in this segment=1301239) in 0.07 seconds
+0036.538 (0) Table wp_wfconfig: finishing file(s) (2, 681 KB)
+0036.544 (0) Table wp_wfcrawlers: Total expected rows (approximate): 0
+0036.545 (0) Table wp_wfcrawlers: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=756) in 0.00 seconds
+0036.551 (0) Table wp_wfcrawlers: finishing file(s) (2, 0.5 KB)
+0036.555 (0) Table wp_wffilechanges: Total expected rows (approximate): 0
+0036.557 (0) Table wp_wffilechanges: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=485) in 0.00 seconds
+0036.563 (0) Table wp_wffilechanges: finishing file(s) (2, 0.3 KB)
+0036.567 (0) Table wp_wffilemods: Total expected rows (approximate): 9924
+0036.730 (0) Table wp_wffilemods: Rows added in this batch (next record: 12000): 10094 (uncompressed bytes in this segment=4008286) in 0.16 seconds
+0036.737 (0) Table wp_wffilemods: finishing file(s) (2, 1066.1 KB)
+0036.744 (0) Table wp_wfhits: Total expected rows (via COUNT): 39
+0036.745 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.750 (0) Table wp_wfhits: Rows added in this batch (next record: 40): 39 (uncompressed bytes in this segment=19402) in 0.01 seconds
+0036.755 (0) Table wp_wfhits: finishing file(s) (2, 2.7 KB)
+0036.760 (0) Table wp_wfhoover: Total expected rows (via COUNT): 0
+0036.764 (0) Table wp_wfhoover: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=548) in 0.00 seconds
+0036.769 (0) Table wp_wfhoover: finishing file(s) (2, 0.4 KB)
+0036.775 (0) Table wp_wfissues: Total expected rows (via COUNT): 1
+0036.776 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.780 (0) Table wp_wfissues: Rows added in this batch (next record: 72): 1 (uncompressed bytes in this segment=1821) in 0.01 seconds
+0036.787 (0) Table wp_wfissues: finishing file(s) (2, 1 KB)
+0036.791 (0) Table wp_wfknownfilelist: Total expected rows (approximate): 9819
+0036.856 (0) Table wp_wfknownfilelist: Rows added in this batch (next record: 10095): 10095 (uncompressed bytes in this segment=2139575) in 0.07 seconds
+0036.863 (0) Table wp_wfknownfilelist: finishing file(s) (2, 142.7 KB)
+0036.867 (0) Table wp_wflivetraffichuman: Total expected rows (approximate): 0
+0036.869 (0) Table wp_wflivetraffichuman: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=683) in 0.00 seconds
+0036.875 (0) Table wp_wflivetraffichuman: finishing file(s) (2, 0.4 KB)
+0036.879 (0) Table wp_wflocs: Total expected rows (approximate): 8
+0036.881 (0) Table wp_wflocs: Rows added in this batch (next record: 1000): 8 (uncompressed bytes in this segment=1772) in 0.00 seconds
+0036.888 (0) Table wp_wflocs: finishing file(s) (2, 0.8 KB)
+0036.893 (0) Table wp_wflogins: Total expected rows (via COUNT): 4
+0036.894 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0036.898 (0) Table wp_wflogins: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1646) in 0.01 seconds
+0036.904 (0) Table wp_wflogins: finishing file(s) (2, 0.7 KB)
+0036.908 (0) Table wp_wfls_2fa_secrets: Total expected rows (via COUNT): 0
+0036.912 (0) Table wp_wfls_2fa_secrets: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=714) in 0.00 seconds
+0036.920 (0) Table wp_wfls_2fa_secrets: finishing file(s) (2, 0.4 KB)
+0036.925 (0) Table wp_wfls_role_counts: Total expected rows (approximate): 0
+0036.927 (0) Table wp_wfls_role_counts: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=576) in 0.00 seconds
+0036.932 (0) Table wp_wfls_role_counts: finishing file(s) (2, 0.4 KB)
+0036.937 (0) Table wp_wfls_settings: Total expected rows (approximate): 26
+0036.939 (0) Table wp_wfls_settings: Rows added in this batch (next record: 1000): 30 (uncompressed bytes in this segment=2097) in 0.00 seconds
+0036.947 (0) Table wp_wfls_settings: finishing file(s) (2, 1 KB)
+0036.952 (0) Table wp_wfnotifications: Total expected rows (approximate): 3
+0036.954 (0) Table wp_wfnotifications: Rows added in this batch (next record: 1000): 3 (uncompressed bytes in this segment=1243) in 0.00 seconds
+0036.960 (0) Table wp_wfnotifications: finishing file(s) (2, 0.6 KB)
+0036.966 (0) Table wp_wfpendingissues: Total expected rows (via COUNT): 0
+0036.967 (0) Table wp_wfpendingissues: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=905) in 0.00 seconds
+0036.974 (0) Table wp_wfpendingissues: finishing file(s) (2, 0.4 KB)
+0036.979 (0) Table wp_wfreversecache: Total expected rows (approximate): 8
+0036.981 (0) Table wp_wfreversecache: Rows added in this batch (next record: 1000): 10 (uncompressed bytes in this segment=1416) in 0.00 seconds
+0036.988 (0) Table wp_wfreversecache: finishing file(s) (2, 0.6 KB)
+0036.993 (0) Table wp_wfsecurityevents: Total expected rows (via COUNT): 0
+0036.995 (0) Table wp_wfsecurityevents: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=715) in 0.00 seconds
+0037.001 (0) Table wp_wfsecurityevents: finishing file(s) (2, 0.4 KB)
+0037.007 (0) Table wp_wfsnipcache: Total expected rows (via COUNT): 0
+0037.009 (0) Table wp_wfsnipcache: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.00 seconds
+0037.015 (0) Table wp_wfsnipcache: finishing file(s) (2, 0.4 KB)
+0037.020 (0) Table wp_wfstatus: Total expected rows (approximate): 1149
+0037.030 (0) Table wp_wfstatus: Rows added in this batch (next record: 1820): 1172 (uncompressed bytes in this segment=120423) in 0.01 seconds
+0037.036 (0) Table wp_wfstatus: finishing file(s) (2, 17.8 KB)
+0037.041 (0) Table wp_wftrafficrates: Total expected rows (approximate): 0
+0037.043 (0) Table wp_wftrafficrates: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=600) in 0.00 seconds
+0037.048 (0) Table wp_wftrafficrates: finishing file(s) (2, 0.4 KB)
+0037.053 (0) Table wp_wfwaffailures: Total expected rows (via COUNT): 0
+0037.054 (0) Table wp_wfwaffailures: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=562) in 0.00 seconds
+0037.060 (0) Table wp_wfwaffailures: finishing file(s) (2, 0.4 KB)
+0037.061 (0) PHP event: code E_WARNING: filemtime(): stat failed for /home/u172154815/domains/fontaneriaenmurcia.es/public_html/wp-content/updraft/backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db.gz (line 1923, wp-content/plugins/updraftplus/backup.php)
+0037.063 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_options.table.tmpr48013.gz (1/59/fopen): adding to final database dump
+0037.072 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_options.table.gz (2/59/fopen): adding to final database dump
+0037.073 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_users.table.tmpr5.gz (3/59/fopen): adding to final database dump
+0037.075 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_users.table.gz (4/59/fopen): adding to final database dump
+0037.076 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_usermeta.table.tmpr232.gz (5/59/fopen): adding to final database dump
+0037.077 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_usermeta.table.gz (6/59/fopen): adding to final database dump
+0037.079 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_actionscheduler_actions.table.tmpr249.gz (7/59/fopen): adding to final database dump
+0037.080 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_actionscheduler_actions.table.gz (8/59/fopen): adding to final database dump
+0037.082 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/59/fopen): adding to final database dump
+0037.083 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_actionscheduler_claims.table.gz (10/59/fopen): adding to final database dump
+0037.085 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_actionscheduler_groups.table.tmpr4.gz (11/59/fopen): adding to final database dump
+0037.086 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_actionscheduler_groups.table.gz (12/59/fopen): adding to final database dump
+0037.088 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_actionscheduler_logs.table.tmpr717.gz (13/59/fopen): adding to final database dump
+0037.089 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_actionscheduler_logs.table.gz (14/59/fopen): adding to final database dump
+0037.091 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_commentmeta.table.tmpr0.gz (15/59/fopen): adding to final database dump
+0037.092 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_commentmeta.table.gz (16/59/fopen): adding to final database dump
+0037.094 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_comments.table.tmpr0.gz (17/59/fopen): adding to final database dump
+0037.095 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_comments.table.gz (18/59/fopen): adding to final database dump
+0037.097 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_links.table.tmpr0.gz (19/59/fopen): adding to final database dump
+0037.098 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_links.table.gz (20/59/fopen): adding to final database dump
+0037.100 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_postmeta.table.tmpr4354.gz (21/59/fopen): adding to final database dump
+0037.102 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_postmeta.table.gz (22/59/fopen): adding to final database dump
+0037.103 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_posts.table.tmpr3333.gz (23/59/fopen): adding to final database dump
+0037.202 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_posts.table.gz (24/59/fopen): adding to final database dump
+0037.371 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_term_relationships.table.tmpr100001.gz (25/59/fopen): adding to final database dump
+0037.373 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_term_relationships.table.gz (26/59/fopen): adding to final database dump
+0037.374 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_term_taxonomy.table.tmpr37.gz (27/59/fopen): adding to final database dump
+0037.376 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_term_taxonomy.table.gz (28/59/fopen): adding to final database dump
+0037.377 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_termmeta.table.tmpr0.gz (29/59/fopen): adding to final database dump
+0037.378 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_termmeta.table.gz (30/59/fopen): adding to final database dump
+0037.380 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_terms.table.tmpr37.gz (31/59/fopen): adding to final database dump
+0037.381 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_terms.table.gz (32/59/fopen): adding to final database dump
+0037.383 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_cmplz_cookiebanners.table.tmpr2.gz (33/59/fopen): adding to final database dump
+0037.385 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_cmplz_cookiebanners.table.gz (34/59/fopen): adding to final database dump
+0037.386 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_cmplz_cookies.table.tmpr70.gz (35/59/fopen): adding to final database dump
+0037.387 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_cmplz_cookies.table.gz (36/59/fopen): adding to final database dump
+0037.389 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_cmplz_dnsmpd.table.tmpr0.gz (37/59/fopen): adding to final database dump
+0037.390 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_cmplz_dnsmpd.table.gz (38/59/fopen): adding to final database dump
+0037.392 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_cmplz_services.table.tmpr0.gz (39/59/fopen): adding to final database dump
+0037.393 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_cmplz_services.table.gz (40/59/fopen): adding to final database dump
+0037.394 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_duplicator_packages.table.tmpr2.gz (41/59/fopen): adding to final database dump
+0037.396 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_duplicator_packages.table.gz (42/59/fopen): adding to final database dump
+0037.397 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_avatar.table.tmpr0.gz (43/59/fopen): adding to final database dump
+0037.399 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_avatar.table.gz (44/59/fopen): adding to final database dump
+0037.400 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_crawler.table.tmpr0.gz (45/59/fopen): adding to final database dump
+0037.407 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_crawler.table.gz (46/59/fopen): adding to final database dump
+0037.408 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_crawler_blacklist.table.tmpr0.gz (47/59/fopen): adding to final database dump
+0037.410 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_crawler_blacklist.table.gz (48/59/fopen): adding to final database dump
+0037.411 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_url.table.tmpr302.gz (49/59/fopen): adding to final database dump
+0037.412 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_url.table.gz (50/59/fopen): adding to final database dump
+0037.413 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_url_file.table.tmpr643.gz (51/59/fopen): adding to final database dump
+0037.415 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_litespeed_url_file.table.gz (52/59/fopen): adding to final database dump
+0037.416 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_404_logs.table.tmpr90.gz (53/59/fopen): adding to final database dump
+0037.417 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_404_logs.table.gz (54/59/fopen): adding to final database dump
+0037.418 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_analytics_gsc.table.tmpr2.gz (55/59/fopen): adding to final database dump
+0037.420 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_analytics_gsc.table.gz (56/59/fopen): adding to final database dump
+0037.421 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_analytics_inspections.table.tmpr4.gz (57/59/fopen): adding to final database dump
+0037.422 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_analytics_inspections.table.gz (58/59/fopen): adding to final database dump
+0037.424 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_analytics_objects.table.tmpr3.gz (59/59/fopen): adding to final database dump
+0037.425 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_analytics_objects.table.gz (60/59/fopen): adding to final database dump
+0037.426 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_internal_links.table.tmpr230282.gz (61/59/fopen): adding to final database dump
+0037.428 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_internal_links.table.gz (62/59/fopen): adding to final database dump
+0037.430 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_internal_meta.table.tmpr3205.gz (63/59/fopen): adding to final database dump
+0037.431 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_internal_meta.table.gz (64/59/fopen): adding to final database dump
+0037.433 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_redirections.table.tmpr0.gz (65/59/fopen): adding to final database dump
+0037.434 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_redirections.table.gz (66/59/fopen): adding to final database dump
+0037.436 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_redirections_cache.table.tmpr0.gz (67/59/fopen): adding to final database dump
+0037.437 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_rank_math_redirections_cache.table.gz (68/59/fopen): adding to final database dump
+0037.439 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfauditevents.table.tmpr0.gz (69/59/fopen): adding to final database dump
+0037.440 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfauditevents.table.gz (70/59/fopen): adding to final database dump
+0037.441 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfblockediplog.table.tmpr1001.gz (71/59/fopen): adding to final database dump
+0037.443 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfblockediplog.table.gz (72/59/fopen): adding to final database dump
+0037.444 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfblocks7.table.tmpr0.gz (73/59/fopen): adding to final database dump
+0037.446 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfblocks7.table.gz (74/59/fopen): adding to final database dump
+0037.448 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfconfig.table.tmpr1001.gz (75/59/fopen): adding to final database dump
+0037.458 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfconfig.table.gz (76/59/fopen): adding to final database dump
+0037.459 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfcrawlers.table.tmpr1001.gz (77/59/fopen): adding to final database dump
+0037.461 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfcrawlers.table.gz (78/59/fopen): adding to final database dump
+0037.463 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wffilechanges.table.tmpr1.gz (79/59/fopen): adding to final database dump
+0037.464 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wffilechanges.table.gz (80/59/fopen): adding to final database dump
+0037.466 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wffilemods.table.tmpr12001.gz (81/59/fopen): adding to final database dump
+0037.483 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wffilemods.table.gz (82/59/fopen): adding to final database dump
+0037.485 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfhits.table.tmpr41.gz (83/59/fopen): adding to final database dump
+0037.487 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfhits.table.gz (84/59/fopen): adding to final database dump
+0037.488 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfhoover.table.tmpr0.gz (85/59/fopen): adding to final database dump
+0037.490 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfhoover.table.gz (86/59/fopen): adding to final database dump
+0037.492 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfissues.table.tmpr73.gz (87/59/fopen): adding to final database dump
+0037.494 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfissues.table.gz (88/59/fopen): adding to final database dump
+0037.495 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfknownfilelist.table.tmpr10096.gz (89/59/fopen): adding to final database dump
+0037.499 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfknownfilelist.table.gz (90/59/fopen): adding to final database dump
+0037.501 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wflivetraffichuman.table.tmpr1.gz (91/59/fopen): adding to final database dump
+0037.503 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wflivetraffichuman.table.gz (92/59/fopen): adding to final database dump
+0037.504 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wflocs.table.tmpr1001.gz (93/59/fopen): adding to final database dump
+0037.506 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wflocs.table.gz (94/59/fopen): adding to final database dump
+0037.508 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wflogins.table.tmpr5.gz (95/59/fopen): adding to final database dump
+0037.509 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wflogins.table.gz (96/59/fopen): adding to final database dump
+0037.511 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfls_2fa_secrets.table.tmpr0.gz (97/59/fopen): adding to final database dump
+0037.513 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfls_2fa_secrets.table.gz (98/59/fopen): adding to final database dump
+0037.514 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfls_role_counts.table.tmpr1.gz (99/59/fopen): adding to final database dump
+0037.518 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfls_role_counts.table.gz (100/59/fopen): adding to final database dump
+0037.520 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfls_settings.table.tmpr1001.gz (101/59/fopen): adding to final database dump
+0037.521 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfls_settings.table.gz (102/59/fopen): adding to final database dump
+0037.523 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfnotifications.table.tmpr1001.gz (103/59/fopen): adding to final database dump
+0037.524 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfnotifications.table.gz (104/59/fopen): adding to final database dump
+0037.526 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfpendingissues.table.tmpr0.gz (105/59/fopen): adding to final database dump
+0037.527 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfpendingissues.table.gz (106/59/fopen): adding to final database dump
+0037.529 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfreversecache.table.tmpr1001.gz (107/59/fopen): adding to final database dump
+0037.530 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfreversecache.table.gz (108/59/fopen): adding to final database dump
+0037.532 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfsecurityevents.table.tmpr0.gz (109/59/fopen): adding to final database dump
+0037.533 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfsecurityevents.table.gz (110/59/fopen): adding to final database dump
+0037.534 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfsnipcache.table.tmpr0.gz (111/59/fopen): adding to final database dump
+0037.536 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfsnipcache.table.gz (112/59/fopen): adding to final database dump
+0037.537 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfstatus.table.tmpr1821.gz (113/59/fopen): adding to final database dump
+0037.539 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfstatus.table.gz (114/59/fopen): adding to final database dump
+0037.541 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wftrafficrates.table.tmpr1.gz (115/59/fopen): adding to final database dump
+0037.542 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wftrafficrates.table.gz (116/59/fopen): adding to final database dump
+0037.543 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfwaffailures.table.tmpr0.gz (117/59/fopen): adding to final database dump
+0037.545 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db-table-wp_wfwaffailures.table.gz (118/59/fopen): adding to final database dump
+0037.550 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db.gz: finished writing out complete database file (10315.5 KB)
+0037.653 (0) Total database tables backed up: 59 (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db.gz, size: 10563241, sha1: ffe9e6715f5a214b0d46caf743abd2d5cda6890c, sha256: 0d6c8bde4e96b4e363e7b6de82b954165ce404bec9a343350abb4f8a54fe78f1)
+0037.661 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip: plugins: This file has already been successfully uploaded
+0037.662 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip: themes: This file has already been successfully uploaded
+0037.663 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip: uploads: This file has already been successfully uploaded
+0037.664 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-mu-plugins.zip: mu-plugins: This file has already been successfully uploaded
+0037.666 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-others.zip: others: This file has already been successfully uploaded
+0037.667 (0) backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db.gz: db: This file has not yet been successfully uploaded: will queue
+0037.668 (0) Saving backup history. Total backup size: 76.7 MB
+0037.671 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0037.676 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0037.677 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-64e7290ade01d6bd2a0e934aac6d22ac)
+0038.043 (0) Google Drive: quota usage: used=1189.4 MB, total=15360 MB, available=14170.6 MB
+0038.045 (0) Google Drive: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db.gz: Attempting to upload to Google Drive (into folder id: 1hXt2fe6xErO7QVwg3RlezyQmCCYvRdeN)
+0038.852 (0) Googledrive chunked upload: 9.9 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 21.4 / 90)
+0039.035 (0) Googledrive chunked upload: 29.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 21.6 / 90)
+0039.210 (0) Googledrive chunked upload: 69.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 21.6 / 90)
+0040.639 (0) Googledrive chunked upload: 100 % uploaded (7340032)
+0040.645 (0) Google Drive: OK: Archive backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db.gz uploaded in 2.6 seconds
+0040.647 (0) Recording as successfully uploaded: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db.gz
+0040.653 (0) Deleting local file: backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-db.gz: OK
+0040.657 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=7
+0040.659 (0) Number of backup sets in history: 10; groups (db): 1
+0040.661 (0) Examining (for databases) backup set with group_id=0, nonce=b33ce15e0d0b, datestamp=1772865080 (Mar 07 2026 06:31:20)
+0040.662 (0) This backup set is the backup set just made, so will not be deleted.
+0040.662 (0) Examining (for databases) backup set with group_id=0, nonce=1adac2dae1f9, datestamp=1772779248 (Mar 06 2026 06:40:48)
+0040.662 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0040.663 (0) Examining (for databases) backup set with group_id=0, nonce=1154ccb40749, datestamp=1772692158 (Mar 05 2026 06:29:18)
+0040.663 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0040.663 (0) Examining (for databases) backup set with group_id=0, nonce=66f1346a44a9, datestamp=1772607738 (Mar 04 2026 07:02:18)
+0040.663 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0040.663 (0) Examining (for databases) backup set with group_id=0, nonce=016114ae8aae, datestamp=1772520074 (Mar 03 2026 06:41:14)
+0040.663 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0040.663 (0) Examining (for databases) backup set with group_id=0, nonce=b3b30d444f3b, datestamp=1772437546 (Mar 02 2026 07:45:46)
+0040.663 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0040.663 (0) Examining (for databases) backup set with group_id=0, nonce=3fb9bc607698, datestamp=1772435348 (Mar 02 2026 07:09:08)
+0040.663 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0040.663 (0) Examining (for databases) backup set with group_id=0, nonce=7e17df529948, datestamp=1772347538 (Mar 01 2026 06:45:38)
+0040.663 (0) 1772347538: db: this set includes a database (backup_2026-03-01-0745_Fontanera_en_Murcia_7e17df529948-db.gz); db count is now 7
+0040.663 (0) 1772347538: db: over retain limit (7); will delete this database
+0042.468 (0) Google Drive: backup_2026-03-01-0745_Fontanera_en_Murcia_7e17df529948-db.gz: Deletion successful
+0042.475 (0) This backup set is now empty; will remove from history
+0042.477 (0) Deleting log file (log.7e17df529948.txt)
+0042.479 (0) Examining (for databases) backup set with group_id=0, nonce=fc5b8c7d1ec5, datestamp=1772261607 (Feb 28 2026 06:53:27)
+0042.479 (0) Examining (for databases) backup set with group_id=0, nonce=bb56e1d748ea, datestamp=1771655866 (Feb 21 2026 06:37:46)
+0042.479 (0) Number of backup sets in history: 9; groups (files): 1
+0042.481 (0) Examining (for files) backup set with nonce=b33ce15e0d0b, datestamp=1772865080 (Mar 07 2026 06:31:20)
+0042.481 (0) This backup set is the backup set just made, so will not be deleted.
+0042.483 (0) This backup set is the backup set just made, so will not be deleted.
+0042.483 (0) This backup set is the backup set just made, so will not be deleted.
+0042.483 (0) This backup set is the backup set just made, so will not be deleted.
+0042.483 (0) This backup set is the backup set just made, so will not be deleted.
+0042.483 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0042.485 (0) Examining (for files) backup set with nonce=1adac2dae1f9, datestamp=1772779248 (Mar 06 2026 06:40:48)
+0042.485 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0042.487 (0) Examining (for files) backup set with nonce=1154ccb40749, datestamp=1772692158 (Mar 05 2026 06:29:18)
+0042.487 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0042.487 (0) Examining (for files) backup set with nonce=66f1346a44a9, datestamp=1772607738 (Mar 04 2026 07:02:18)
+0042.487 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0042.487 (0) Examining (for files) backup set with nonce=016114ae8aae, datestamp=1772520074 (Mar 03 2026 06:41:14)
+0042.487 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0042.487 (0) Examining (for files) backup set with nonce=b3b30d444f3b, datestamp=1772437546 (Mar 02 2026 07:45:46)
+0042.487 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0042.487 (0) Examining (for files) backup set with nonce=3fb9bc607698, datestamp=1772435348 (Mar 02 2026 07:09:08)
+0042.487 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0042.487 (0) Examining (for files) backup set with nonce=fc5b8c7d1ec5, datestamp=1772261607 (Feb 28 2026 06:53:27)
+0042.487 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0042.489 (0) Examining (for files) backup set with nonce=bb56e1d748ea, datestamp=1771655866 (Feb 21 2026 06:37:46)
+0042.489 (0) plugins: over retain limit (2); will delete this file entity
+0042.489 (0) themes: over retain limit (2); will delete this file entity
+0042.489 (0) uploads: over retain limit (2); will delete this file entity
+0042.489 (0) mu-plugins: over retain limit (2); will delete this file entity
+0042.489 (0) others: over retain limit (2); will delete this file entity
+0044.306 (0) Google Drive: backup_2026-02-21-0737_Fontanera_en_Murcia_bb56e1d748ea-others.zip: Deletion successful
+0044.878 (0) Google Drive: backup_2026-02-21-0737_Fontanera_en_Murcia_bb56e1d748ea-mu-plugins.zip: Deletion successful
+0045.717 (0) Google Drive: backup_2026-02-21-0737_Fontanera_en_Murcia_bb56e1d748ea-uploads.zip: Deletion successful
+0046.826 (0) Google Drive: backup_2026-02-21-0737_Fontanera_en_Murcia_bb56e1d748ea-themes.zip: Deletion successful
+0048.341 (0) Google Drive: backup_2026-02-21-0737_Fontanera_en_Murcia_bb56e1d748ea-plugins.zip: Deletion successful
+0048.348 (0) This backup set is now empty; will remove from history
+0048.349 (0) Deleting log file (log.bb56e1d748ea.txt)
+0048.351 (0) Retain: saving new backup history (sets now: 8) and finishing retain operation
+0048.355 (0) Resume backup (b33ce15e0d0b, 0): finish run
+0048.358 (0) Decremented the semaphore (fd) by 1
+0048.359 (0) Semaphore (fd) unlocked
+0048.361 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0048.366 (0) The backup succeeded and is now complete
+0048.367 (0) Deleting zip manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-plugins.zip.list.tmp)
+0048.369 (0) Deleting zip manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-themes.zip.list.tmp)
+0048.371 (0) Deleting zip manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-uploads.zip.list.tmp)
+0048.372 (0) Deleting zip manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-mu-plugins.zip.list.tmp)
+0048.374 (0) Deleting zip manifest (backup_2026-03-07-0731_Fontanera_en_Murcia_b33ce15e0d0b-others.zip.list.tmp)
+0048.376 (0) Fetching RSS news feed
+0048.723 (0) Fetched RSS news feed; result is a: SimplePie\SimplePie
+0048.751 (0) Sending email ('Archivos y base de datos (Copia de seguridad completa)') report (attachments: 0, size: 0 KB) to: info@...
+0048.841 (0) La copia de seguridad se ha realizado correctamente y se ha completado
